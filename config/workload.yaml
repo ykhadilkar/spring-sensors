@@ -13,6 +13,6 @@ spec:
   source:
     git:
       # update when code is pushed to a new location
-      url: https://github.com/ykhadilkar/spring-sensors.git
+      url: https://github.com/ykhadilkar/spring-sensors
       ref:
         branch: main
